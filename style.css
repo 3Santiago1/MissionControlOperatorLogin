@@ -1,0 +1,10 @@
+body{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+#blink {
+    font-size: 20px;
+    font-weight: bold;
+    color: magenta;
+    transition: o.5s;
+}
